@@ -19,6 +19,7 @@ This repository contains **ten fully operational physics modules**, representing
 
 All modules are plug-and-play, and the engine can be extended to 3D, GPU acceleration, or real observational data comparisons.
 
+
 ---
 
 # 🔷 Features
